@@ -24,6 +24,7 @@ Based on the findings, coffee shop coupon campaigns should:
 1. Prioritize morning distribution windows
 2. Target frequent coffee shop visitors
 3. Focus on student and healthcare professional segments
+4. Target those with larger friend groups
 
 ## Future Work
 

@@ -9,7 +9,7 @@ The initial projects will focus on thorough data exploration before gradually ex
 I'm building this portfolio to demonstrate my analytical approach and growing technical skills while tackling real-world problems with data. Check back soon as I add more projects and expand into different areas of machine learning!
 
 ## Current Projects
-- [Coffee Shop Coupon Analysis](/coffee_coupon_analysis) - Exploring factors that influence coupon acceptance rates for coffee establishments
+- [Coffee Shop Coupon Analysis](/coffee_coupon_analysis/coffee_coupon_analysis.ipynb) - Exploring factors that influence coupon acceptance rates for coffee establishments
 
 ## Tools & Technologies
 - Python

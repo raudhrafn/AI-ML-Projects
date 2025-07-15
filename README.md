@@ -10,6 +10,7 @@ I'm building this portfolio to demonstrate my analytical approach and growing te
 
 ## Current Projects
 - [Coffee Shop Coupon Analysis](/coffee_coupon_analysis) - Exploring factors that influence coupon acceptance rates for coffee establishments
+- [Car Price Analysis](/car_price_analysis) - Exploring factors that influence used car prices
 
 ## Tools & Technologies
 - Python
